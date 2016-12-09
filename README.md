@@ -6,4 +6,4 @@ I've always been familiar with basic HTML and CSS but have never really tried to
 
 You can view the site here:
 
-http://www.theodinproject.com/courses/web-development-101/lessons/html-css
+https://jhforster.github.io/fake-google-homepage/
